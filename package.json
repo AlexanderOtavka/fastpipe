@@ -1,0 +1,31 @@
+{
+  "name": "fastpipe",
+  "version": "1.0.0",
+  "description": "Create nested streams, similar to lazypipe but one-use only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderOtavka/fastpipe.git"
+  },
+  "keywords": [
+    "gulp",
+    "pipeline",
+    "combine",
+    "streams",
+    "stream",
+    "gulpfriendly"
+  ],
+  "author": "AlexanderOtavka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderOtavka/fastpipe/issues"
+  },
+  "homepage": "https://github.com/AlexanderOtavka/fastpipe#readme",
+  "dependencies": {
+    "duplexer": "^0.1.1",
+    "through": "^2.3.8"
+  }
+}
