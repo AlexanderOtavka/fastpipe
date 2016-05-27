@@ -1,6 +1,9 @@
-# fastpipe [![NPM version][npm-image]][npm-url]
+# fastpipe
 
 > Create nested streams, similar to lazypipe but one-use only.
+
+[![NPM version][npm-image]][npm-url]
+[![License][license-image]][license-url]
 
 ## Usage
 
@@ -80,3 +83,7 @@ Pull requests welcome.  If you find any bugs, please submit an issue on GitHub.
 
 [npm-url]: https://www.npmjs.com/package/fastpipe
 [npm-image]: https://badge.fury.io/js/fastpipe.svg
+
+[license-url]: http://en.wikipedia.org/wiki/MIT_License
+[license-image]: https://img.shields.io/badge/license-MIT-brightgreen.svg
+
