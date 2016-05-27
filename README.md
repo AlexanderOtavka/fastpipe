@@ -1,9 +1,9 @@
 # fastpipe
 
-> Create nested streams, similar to lazypipe but one-use only.
-
 [![NPM version][npm-image]][npm-url]
 [![License][license-image]][license-url]
+
+> Create nested streams, similar to lazypipe but one-use only.
 
 ## Usage
 
