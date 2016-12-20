@@ -1,7 +1,7 @@
 {
   "name": "fastpipe",
   "version": "1.0.2",
-  "description": "Create nested streams, similar to lazypipe but one-use only.",
+  "description": "Create nested streams, similar to lazypipe but cleaner syntax and one-use only.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
