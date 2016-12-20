@@ -2,6 +2,7 @@
 
 [![NPM version][npm-image]][npm-url]
 [![License][license-image]][license-url]
+[![Known Vulnerabilities][vulnerabilities-image]][vulnerabilities-url]
 
 > Create nested streams, similar to lazypipe but cleaner syntax and one-use only.
 
@@ -87,3 +88,5 @@ Pull requests welcome.  If you find any bugs, please submit an issue on GitHub.
 [license-url]: http://en.wikipedia.org/wiki/MIT_License
 [license-image]: https://img.shields.io/badge/license-MIT-brightgreen.svg
 
+[vulnerabilities-url]: https://snyk.io/test/npm/fastpipe
+[vulnerabilities-image]: https://snyk.io/test/npm/fastpipe/badge.svg
